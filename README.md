@@ -1,2 +1,2 @@
 # Hangman-Game
-Hangman game with C
+Hangman game with Cpp
